@@ -22,7 +22,7 @@ Las representaciones gráficas de las tablas serían las siguientes:
 ![Captura de pantalla 2020-11-18 a las 14 25 38](https://user-images.githubusercontent.com/69120593/99536037-13e6bd00-29aa-11eb-9097-736560be5da5.png)
 ![Captura de pantalla 2020-11-18 a las 14 26 02](https://user-images.githubusercontent.com/69120593/99536074-1fd27f00-29aa-11eb-9355-d15755bc18bd.png)
 
-
+En estas gráficas, podemos observar que por lo general, los resultados durante el primer año de presidencias demócratas, han sido más positivos. Tienen el año con mejor resultado (1932), pero también el año con peor resultado (1936), que supera de maner negativa incluso al Crack del 29, que ocurrió durante el primer año de presidencia del presidente republicano 
 
 
 
