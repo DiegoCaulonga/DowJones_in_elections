@@ -1,4 +1,14 @@
 # DowJones_in_elections
 Teniendo en cuenta que estamos en año de elecciones en EEUU, y que con las constantes oscilaciones de los mercados de valores debido a la situación mundial, la afición por la inversión se ha generalizado, he decidido hacer un estudio a cerca del comportamiento del Dow Jones los años posteriores al nombramiento de presidentes en "el gran pais". Para poneros un poco en contexto, por un lado hay que saber que las elecciones en EEUU se hacen, siempre, cada cuatro años, el primer martes después del primer lunes de Noviembre (si el Martes cae en día 1, las elecciones serían la semana siguiente, al caer el lunes en 31 de Octubre). Por otro lado, el Dow Jones, es el índice mas representativo de la bolsa americana. Nació en 1896, y mide el desempeño de las 30 empresas mas grandes que cotizan en el mercado bursatil de EEUU. Historicamente, y por lo general, se ha compuesto por empresas industriales, aunque con el auge de las tecnologicas, varias empresas del NASDAQ han sido introducidad dentro de este gran indice en los ultimos años (y el numero seguro que ira creciendo). 
 Por lo tanto, y sabiendo esto, me puse a investigar a cerca del comportamiento de este índice, los años posteriores a las elecciones en Estados Unidos, cuando el presidente lleva un par de meses electo, ingresa en la Casa Blanca, y comienza su presidencia. 
-Para los que esten familizariados con Python3, y les interese, en el siguiente link pueden ver todo el codigo que he realizado para mi analisis: 
+Para los que estén familizariados con Python3, y les interese, ire adjuntando los links de cada paso donde se puede ver el codigo que he ido escribiendo.
+
+## Presidents (https://github.com/DiegoCaulonga/DowJones_in_elections/blob/main/Presidents.ipynb)
+En este primer paso, utilizando webscraping (obtención de datos de internet utilizando un link y su html), obtube una tabla en la que se recogía el histórico de presidentes de estados unidos, sus nombres, el año en el que fueron electos, y el partido al que pertenecían. La tabla la podeis encontrar arriba, en presidents.csv.
+
+## Dow Jones (https://github.com/DiegoCaulonga/DowJones_in_elections/blob/main/DowJones.ipynb)
+En el segundo paso, y tambien utilizando webscraping, obtube la tabla en la que se representa la evolución del Dow Jones año a año, con una columna en la que se ve el año (comenzando en 1915) y otra columna donde se ve la fluctuacion anual. Esta tabla también la podeis encontrar arriba, se llama DowJones.csv.
+
+## Analysis (https://github.com/DiegoCaulonga/DowJones_in_elections/blob/main/Analysis.ipynb)
+Aunque el nombre no concuerde exactamente con lo hecho en este código, en mi tercer paso mi objetivo fue limpiar las dos tablas obtenidas anteriormente, para obtener una tabla en la que se representaran los años de elecciones, los presidentes electos, los partidos a los que pertenecían, y las fluactuaciones del Dow Jones durante el año posterior a las respectivas elecciones. 
+https://github.com/DiegoCaulonga/DowJones_in_elections/blob/main/analysis.csv
