@@ -30,3 +30,4 @@ En estas gráficas, podemos observar que por lo general, los resultados durante 
 
 Este gráfico de barras representa la media de fluctuaciones según el partido del presidente electo. Podemos apreciar que la media de fluctuaciones del Dow Jones durante el primer año de presidencia, tiene resultados positivos con ambos partidos, aunque con una diferencia bastante favorable para los democratas, de casi un 8%.
 
+### Resultos positivos y negativos
