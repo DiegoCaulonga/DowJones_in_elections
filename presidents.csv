@@ -1,0 +1,235 @@
+,Year,President,Party
+0, 1789 , George Washington , None 
+1, 1790 , George Washington , None 
+2, 1791 , George Washington , None 
+3, 1792 , George Washington , None 
+4, 1793 , George Washington , None 
+5, 1794 , George Washington , None 
+6, 1795 , George Washington , None 
+7, 1796 , George Washington , None 
+8, 1797 , John Adams , Federalist 
+9, 1798 , John Adams , Federalist 
+10, 1799 , John Adams , Federalist 
+11, 1800 , John Adams , Federalist 
+12, 1801 , Thomas Jefferson , Democratic-Republican 
+13, 1802 , Thomas Jefferson , Democratic-Republican 
+14, 1803 , Thomas Jefferson , Democratic-Republican 
+15, 1804 , Thomas Jefferson , Democratic-Republican 
+16, 1805 , Thomas Jefferson , Democratic-Republican 
+17, 1806 , Thomas Jefferson , Democratic-Republican 
+18, 1807 , Thomas Jefferson , Democratic-Republican 
+19, 1808 , Thomas Jefferson , Democratic-Republican 
+20, 1809 , James Madison , Democratic-Republican 
+21, 1810 , James Madison , Democratic-Republican 
+22, 1811 , James Madison , Democratic-Republican 
+23, 1812 , James Madison , Democratic-Republican 
+24, 1813 , James Madison , Democratic-Republican 
+25, 1814 , James Madison , Democratic-Republican 
+26, 1815 , James Madison , Democratic-Republican 
+27, 1816 , James Madison , Democratic-Republican 
+28, 1817 , James Monroe , Democratic-Republican 
+29, 1818 , James Monroe , Democratic-Republican 
+30, 1819 , James Monroe , Democratic-Republican 
+31, 1820 , James Monroe , Democratic-Republican 
+32, 1821 , James Monroe , Democratic-Republican 
+33, 1822 , James Monroe , Democratic-Republican 
+34, 1823 , James Monroe , Democratic-Republican 
+35, 1824 , James Monroe , Democratic-Republican 
+36, 1825 , John Quincy Adams , Democratic-Republican 
+37, 1826 , John Quincy Adams , Democratic-Republican 
+38, 1827 , John Quincy Adams , Democratic-Republican 
+39, 1828 , John Quincy Adams , Democratic-Republican 
+40, 1829 , Andrew Jackson , Democrat 
+41, 1830 , Andrew Jackson , Democrat 
+42, 1831 , Andrew Jackson , Democrat 
+43, 1832 , Andrew Jackson , Democrat 
+44, 1833 , Andrew Jackson , Democrat 
+45, 1834 , Andrew Jackson , Democrat 
+46, 1835 , Andrew Jackson , Democrat 
+47, 1836 , Andrew Jackson , Democrat 
+48, 1837 , Martin Van Buren , Democrat 
+49, 1838 , Martin Van Buren , Democrat 
+50, 1839 , Martin Van Buren , Democrat 
+51, 1840 , Martin Van Buren , Democrat 
+52, 1841 , William Henry Harrison , Whig 
+53, 1841 , John Tyler , Whig 
+54, 1842 , John Tyler , Whig 
+55, 1843 , John Tyler , Whig 
+56, 1844 , John Tyler , Whig 
+57, 1845 , James K. Polk , Democrat 
+58, 1846 , James K. Polk , Democrat 
+59, 1847 , James K. Polk , Democrat 
+60, 1848 , James K. Polk , Democrat 
+61, 1849 , Zachary Taylor , Whig 
+62, 1850 , Millard Fillmore , Whig 
+63, 1851 , Millard Fillmore , Whig 
+64, 1852 , Millard Fillmore , Whig 
+65, 1853 , Franklin Pierce , Democrat 
+66, 1854 , Franklin Pierce , Democrat 
+67, 1855 , Franklin Pierce , Democrat 
+68, 1856 , Franklin Pierce , Democrat 
+69, 1857 , James Buchanan , Democrat 
+70, 1858 , James Buchanan , Democrat 
+71, 1859 , James Buchanan , Democrat 
+72, 1860 , James Buchanan , Democrat 
+73, 1861 , Abraham Lincoln , Republican 
+74, 1862 , Abraham Lincoln , Republican 
+75, 1863 , Abraham Lincoln , Republican 
+76, 1864 , Abraham Lincoln , Republican 
+77, 1865 , Andrew Johnson , National Union 
+78, 1866 , Andrew Johnson , National Union 
+79, 1867 , Andrew Johnson , National Union 
+80, 1868 , Andrew Johnson , National Union 
+81, 1869 , Ulysses S. Grant , Republican 
+82, 1870 , Ulysses S. Grant , Republican 
+83, 1871 , Ulysses S. Grant , Republican 
+84, 1872 , Ulysses S. Grant , Republican 
+85, 1873 , Ulysses S. Grant , Republican 
+86, 1874 , Ulysses S. Grant , Republican 
+87, 1875 , Ulysses S. Grant , Republican 
+88, 1876 , Ulysses S. Grant , Republican 
+89, 1877 , Rutherford B. Hayes , Republican 
+90, 1878 , Rutherford B. Hayes , Republican 
+91, 1879 , Rutherford B. Hayes , Republican 
+92, 1880 , Rutherford B. Hayes , Republican 
+93, 1881 , James A. Garfield , Republican 
+94, 1881 , Chester A. Arthur , Republican 
+95, 1882 , Chester A. Arthur , Republican 
+96, 1883 , Chester A. Arthur , Republican 
+97, 1884 , Chester A. Arthur , Republican 
+98, 1885 , Grover Cleveland , Democrat 
+99, 1886 , Grover Cleveland , Democrat 
+100, 1887 , Grover Cleveland , Democrat 
+101, 1888 , Grover Cleveland , Democrat 
+102, 1889 , Benjamin Harrison , Republican 
+103, 1890 , Benjamin Harrison , Republican 
+104, 1891 , Benjamin Harrison , Republican 
+105, 1892 , Benjamin Harrison , Republican 
+106, 1893 , Grover Cleveland , Democrat 
+107, 1894 , Grover Cleveland , Democrat 
+108, 1895 , Grover Cleveland , Democrat 
+109, 1896 , Grover Cleveland , Democrat 
+110, 1897 , William McKinley , Republican 
+111, 1898 , William McKinley , Republican 
+112, 1899 , William McKinley , Republican 
+113, 1900 , William McKinley , Republican 
+114, 1901 , Theodore Roosevelt , Republican 
+115, 1902 , Theodore Roosevelt , Republican 
+116, 1903 , Theodore Roosevelt , Republican 
+117, 1904 , Theodore Roosevelt , Republican 
+118, 1905 , Theodore Roosevelt , Republican 
+119, 1906 , Theodore Roosevelt , Republican 
+120, 1907 , Theodore Roosevelt , Republican 
+121, 1908 , Theodore Roosevelt , Republican 
+122, 1909 , William Howard Taft , Republican 
+123, 1910 , William Howard Taft , Republican 
+124, 1911 , William Howard Taft , Republican 
+125, 1912 , William Howard Taft , Republican 
+126, 1913 , Woodrow Wilson , Democrat 
+127, 1914 , Woodrow Wilson , Democrat 
+128, 1915 , Woodrow Wilson , Democrat 
+129, 1916 , Woodrow Wilson , Democrat 
+130, 1917 , Woodrow Wilson , Democrat 
+131, 1918 , Woodrow Wilson , Democrat 
+132, 1919 , Woodrow Wilson , Democrat 
+133, 1920 , Woodrow Wilson , Democrat 
+134, 1921 , Warren G. Harding , Republican 
+135, 1922 , Warren G. Harding , Republican 
+136, 1923 , Calvin Coolidge , Republican 
+137, 1924 , Calvin Coolidge , Republican 
+138, 1925 , Calvin Coolidge , Republican 
+139, 1926 , Calvin Coolidge , Republican 
+140, 1927 , Calvin Coolidge , Republican 
+141, 1928 , Calvin Coolidge , Republican 
+142, 1929 , Herbert Hoover , Republican 
+143, 1930 , Herbert Hoover , Republican 
+144, 1931 , Herbert Hoover , Republican 
+145, 1932 , Herbert Hoover , Republican 
+146, 1933 , Franklin Roosevelt , Democrat 
+147, 1934 , Franklin Roosevelt , Democrat 
+148, 1935 , Franklin Roosevelt , Democrat 
+149, 1936 , Franklin Roosevelt , Democrat 
+150, 1937 , Franklin Roosevelt , Democrat 
+151, 1938 , Franklin Roosevelt , Democrat 
+152, 1939 , Franklin Roosevelt , Democrat 
+153, 1940 , Franklin Roosevelt , Democrat 
+154, 1941 , Franklin Roosevelt , Democrat 
+155, 1942 , Franklin Roosevelt , Democrat 
+156, 1943 , Franklin Roosevelt , Democrat 
+157, 1944 , Franklin Roosevelt , Democrat 
+158, 1945 , Harry S. Truman , Democrat 
+159, 1946 , Harry S. Truman , Democrat 
+160, 1947 , Harry S. Truman , Democrat 
+161, 1948 , Harry S. Truman , Democrat 
+162, 1949 , Harry S. Truman , Democrat 
+163, 1950 , Harry S. Truman , Democrat 
+164, 1951 , Harry S. Truman , Democrat 
+165, 1952 , Harry S. Truman , Democrat 
+166, 1953 , Dwight D. Eisenhower , Republican 
+167, 1954 , Dwight D. Eisenhower , Republican 
+168, 1955 , Dwight D. Eisenhower , Republican 
+169, 1956 , Dwight D. Eisenhower , Republican 
+170, 1957 , Dwight D. Eisenhower , Republican 
+171, 1958 , Dwight D. Eisenhower , Republican 
+172, 1959 , Dwight D. Eisenhower , Republican 
+173, 1960 , Dwight D. Eisenhower , Republican 
+174, 1961 , John F. Kennedy , Democrat 
+175, 1962 , John F. Kennedy , Democrat 
+176, 1963 , Lyndon B. Johnson , Democrat 
+177, 1964 , Lyndon B. Johnson , Democrat 
+178, 1965 , Lyndon B. Johnson , Democrat 
+179, 1966 , Lyndon B. Johnson , Democrat 
+180, 1967 , Lyndon B. Johnson , Democrat 
+181, 1968 , Lyndon B. Johnson , Democrat 
+182, 1969 , Richard M. Nixon , Republican 
+183, 1970 , Richard M. Nixon , Republican 
+184, 1971 , Richard M. Nixon , Republican 
+185, 1972 , Richard M. Nixon , Republican 
+186, 1973 , Richard M. Nixon , Republican 
+187, 1974 , Gerald Ford , Republican 
+188, 1975 , Gerald Ford , Republican 
+189, 1976 , Gerald Ford , Republican 
+190, 1977 , Jimmy Carter , Democrat 
+191, 1978 , Jimmy Carter , Democrat 
+192, 1979 , Jimmy Carter , Democrat 
+193, 1980 , Jimmy Carter , Democrat 
+194, 1981 , Ronald Reagan , Republican 
+195, 1982 , Ronald Reagan , Republican 
+196, 1983 , Ronald Reagan , Republican 
+197, 1984 , Ronald Reagan , Republican 
+198, 1985 , Ronald Reagan , Republican 
+199, 1986 , Ronald Reagan , Republican 
+200, 1987 , Ronald Reagan , Republican 
+201, 1988 , Ronald Reagan , Republican 
+202, 1989 , George Bush , Republican 
+203, 1990 , George Bush , Republican 
+204, 1991 , George Bush , Republican 
+205, 1992 , George Bush , Republican 
+206, 1993 , Bill Clinton , Democrat 
+207, 1994 , Bill Clinton , Democrat 
+208, 1995 , Bill Clinton , Democrat 
+209, 1996 , Bill Clinton , Democrat 
+210, 1997 , Bill Clinton , Democrat 
+211, 1998 , Bill Clinton , Democrat 
+212, 1999 , Bill Clinton , Democrat 
+213, 2000 , Bill Clinton , Democrat 
+214, 2001 , George W. Bush , Republican 
+215, 2002 , George W. Bush , Republican 
+216, 2003 , George W. Bush , Republican 
+217, 2004 , George W. Bush , Republican 
+218, 2005 , George W. Bush , Republican 
+219, 2006 , George W. Bush , Republican 
+220, 2007 , George W. Bush , Republican 
+221, 2008 , George W. Bush , Republican 
+222, 2009 , Barack Obama , Democrat 
+223, 2010 , Barack Obama , Democrat 
+224, 2011 , Barack Obama , Democrat 
+225, 2012 , Barack Obama , Democrat 
+226, 2013 , Barack Obama , Democrat 
+227,2014,Barack Obama,Democrat
+228,2015,Barack Obama,Democrat
+229,2016,Barack Obama,Democrat
+230,2017,Donald Trump,Republican
+231,2018,Donald Trump,Republican
+232,2019,Donald Trump,Republican
+233,2020,Donald Trump,Republican
