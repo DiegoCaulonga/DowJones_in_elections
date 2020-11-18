@@ -38,3 +38,8 @@ Pata hacer estos calculos he generado una columno con numeros binarios, haciendo
 Es donde mayores diferencias he observado, viendo que los emocratas se llevan esta estadistica con creces, teniendo mas resultados positivos, aun habiendo tenido menos representantes presidenciales (desde el origen del Dow Jones).
 
 
+## CONCLUSIÓN
+Aunque está claro que los resultados referentes al Dow Jones durante la historia del año 1 de presidencia en EEUU son bastante favorables a los demócratas, no hay que pasar por alto, que este estudio solo recoge un 25% de los datos totales del Dow Jones, o lo que es lo mismo, que los presidentes ejercen como tal durante 4 años, y no solo 1, por lo que no hay que sacar conclusiones precipitadas. Más adelante, realizaré un estudio en el que se recojan los datos de todos los años, y no solo el primero de cada presidencia, para contrastar datos y ver si las diferencias varían. Este estudio lo he realizado ya que me parecia interesante ver que puede pasar en este proximo año 1. La situación mundial es muy inestable, y las predicciones que un algoritmo de Machine Learning pudiera proporcionarnos, no iban a tener en cuenta que existe un virus fastidiando la economia mundial, por lo que sabiendo eso, y que la oficialidad de Biden como presidente no es absoluta, he preferido no calcular ese dato. 
+LLegado a este punto, te agradezco que hayas leído mi estudio, y no me importaría que me dejaras en la publicación de LinkedIn, alguna recomendación que te pudiera interesar sobre algún estudio que pueda hacer.
+
+
