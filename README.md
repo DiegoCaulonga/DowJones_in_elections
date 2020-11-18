@@ -11,4 +11,4 @@ En el segundo paso, y tambien utilizando webscraping, obtube la tabla en la que 
 
 ## Analysis (https://github.com/DiegoCaulonga/DowJones_in_elections/blob/main/Analysis.ipynb)
 Aunque el nombre no concuerde exactamente con lo hecho en este código, en mi tercer paso mi objetivo fue limpiar las dos tablas obtenidas anteriormente, para obtener una tabla en la que se representaran los años de elecciones, los presidentes electos, los partidos a los que pertenecían, y las fluactuaciones del Dow Jones durante el año posterior a las respectivas elecciones. 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Captura de pantalla 2020-11-18 a las 13 17 22](https://user-images.githubusercontent.com/69120593/99530525-b6e70900-29a1-11eb-8a77-bfca3f652ed2.png)
