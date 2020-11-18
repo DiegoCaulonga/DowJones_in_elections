@@ -18,7 +18,7 @@ En este último paso me dediqué a generar una serie de representaciones gráfic
 
 ### Históricos en barras
 Para estos cálculos, he filtrado la tabla de arriba por la columna de "Presidents Party", para ver los resultados según este dato que he considerado discriminante durante todo el trabajo. Las tablas obtenidas serían RepublicanHist.csv y DemocratHist.csv, ubicadas en la carpetata OutPut. Las podeis ver en este link: https://github.com/DiegoCaulonga/DowJones_in_elections/tree/main/OutPut
-Las representaciones gráficas de las tablas serían las siguientes:
+Las representaciones gráficas de las tablas serían las siguientes:     
 ![Captura de pantalla 2020-11-18 a las 14 25 38](https://user-images.githubusercontent.com/69120593/99536037-13e6bd00-29aa-11eb-9097-736560be5da5.png)
 ![Captura de pantalla 2020-11-18 a las 14 26 02](https://user-images.githubusercontent.com/69120593/99536074-1fd27f00-29aa-11eb-9355-d15755bc18bd.png)
 
