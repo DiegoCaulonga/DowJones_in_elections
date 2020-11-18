@@ -25,9 +25,8 @@ Las representaciones gráficas de las tablas serían las siguientes:
 En estas gráficas, podemos observar que por lo general, los resultados durante el primer año de presidencias demócratas, han sido más positivos. Tienen el año con mejor resultado (1932), pero también el año con peor resultado (1936), que supera de maner negativa incluso al Crack del 29, que ocurrió durante el primer año de presidencia del presidente republicano Herbert Huber. 
 
 
-
-
 ### Media en barras
 ![Captura de pantalla 2020-11-18 a las 13 36 51](https://user-images.githubusercontent.com/69120593/99531539-2c9fa480-29a3-11eb-97ff-edbbbeea9a64.png)
+
 Este gráfico de barras representa la media de fluctuaciones según el partido del presidente electo. Podemos apreciar que la media de fluctuaciones del Dow Jones durante el primer año de presidencia, tiene resultados positivos con ambos partidos, aunque con una diferencia bastante favorable para los democratas, de casi un 8%.
 
