@@ -10,5 +10,13 @@ En este primer paso, utilizando webscraping (obtención de datos de internet uti
 En el segundo paso, y tambien utilizando webscraping, obtube la tabla en la que se representa la evolución del Dow Jones año a año, con una columna en la que se ve el año (comenzando en 1915) y otra columna donde se ve la fluctuacion anual. Esta tabla también la podeis encontrar arriba, se llama DowJones.csv.
 
 ## Analysis (https://github.com/DiegoCaulonga/DowJones_in_elections/blob/main/Analysis.ipynb)
-Aunque el nombre no concuerde exactamente con lo hecho en este código, en mi tercer paso mi objetivo fue limpiar las dos tablas obtenidas anteriormente, para obtener una tabla en la que se representaran los años de elecciones, los presidentes electos, los partidos a los que pertenecían, y las fluactuaciones del Dow Jones durante el año posterior a las respectivas elecciones. 
+Aunque el nombre no concuerde exactamente con lo hecho en este código, en mi tercer paso mi objetivo fue limpiar las dos tablas obtenidas anteriormente, para obtener una tabla en la que se representaran los años de elecciones, los presidentes electos, los partidos a los que pertenecían, y las fluctuaciones del Dow Jones durante el año posterior a las respectivas elecciones. 
 ![Captura de pantalla 2020-11-18 a las 13 17 22](https://user-images.githubusercontent.com/69120593/99530525-b6e70900-29a1-11eb-8a77-bfca3f652ed2.png)
+
+## Graph Creation (https://github.com/DiegoCaulonga/DowJones_in_elections/blob/main/GraphCreation.ipynb)
+En este último paso me dediqué a generar una serie de representaciones gráficas, utilizando la librería matplotlib, para poder visualizar mejor los datos obtenidos en la tabla.
+
+### Media en barras
+![Captura de pantalla 2020-11-18 a las 13 36 51](https://user-images.githubusercontent.com/69120593/99531539-2c9fa480-29a3-11eb-97ff-edbbbeea9a64.png)
+Este gráfico de barras representa la media de fluctuaciones según el partido del presidente electo. Podemos apreciar que la media de fluctuaciones del Dow Jones durante el primer año de presidencia, tiene resultados positivos con ambos partidos, aunque con una diferencia bastante favorable para los democratas, de casi un 8%.
+
