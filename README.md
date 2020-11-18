@@ -1,4 +1,5 @@
-![Captura de pantalla 2020-11-18 a las 16 16 16](https://user-images.githubusercontent.com/69120593/99548894-69769600-29b9-11eb-80b2-0674fa31b49e.png)
+![Captura de pantalla 2020-11-18 a las 16 19 55](https://user-images.githubusercontent.com/69120593/99549429-ebff5580-29b9-11eb-8b35-c14891720333.png)
+
 
 
 # DowJones_in_elections
